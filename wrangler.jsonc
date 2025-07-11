@@ -1,0 +1,9 @@
+{
+  "name": "chanfana-openapi-template",
+  "compatibility_date": "2025-07-11",
+  "main": "src/index.ts",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  }
+}
