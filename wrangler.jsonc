@@ -1,5 +1,5 @@
 {
   "name": "windows-net-worker",
-  "main": "index.js",
+  "main": "loading.html",
   "compatibility_date": "2025-07-11"
 }
